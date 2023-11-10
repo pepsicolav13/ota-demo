@@ -22,4 +22,4 @@ jobs:
         push: true
         tags: pepsicolav13/spring-boot
         platforms: |
-          linux/arm64
+          linux/amd64
